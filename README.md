@@ -1,5 +1,5 @@
 # IEM Configuration
-This repository contains configuration files for the Illumina(R) Experiment Manager (IEM) for third-party indices. Adding these files to your IEM configuration will allow you to create SampleSheets using IEM for third-party library kits.
+This repository contains configuration files for the Illumina® Experiment Manager (IEM) for third-party indices. Adding these files to your IEM configuration will allow you to create SampleSheets using IEM for third-party library kits.
 
 ## Installation
 
@@ -20,3 +20,4 @@ SamplePrepKits
 
 Copy the files from the directories in this repository into the respective directory of IEM on your computer. Then, restart IEM.
 
+Illumina® is a registered trademark of Illumina, Inc.
