@@ -1,0 +1,13 @@
+﻿[Version]
+1
+[Name]
+Twist Enrichment UDI
+[Settings]
+[Reads]
+151
+151
+[Compatible Index Kits]
+Twist 96 UDI Plate A
+Twist 96 UDI Plate B
+Twist 96 UDI Plate C
+Twist 96 UDI Plate D

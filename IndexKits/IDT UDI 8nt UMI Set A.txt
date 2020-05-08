@@ -1,0 +1,494 @@
+﻿[Version]
+1
+[Name]
+IDT UDI 8nt UMI Set A
+[PlateExtension]
+idtumi384a
+[Settings]
+Adapter	AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+AdapterRead2	AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+[I7]
+DualIndexUMIAdapter1	CTGATCGT
+DualIndexUMIAdapter2	ACTCTCGA
+DualIndexUMIAdapter3	TGAGCTAG
+DualIndexUMIAdapter4	GAGACGAT
+DualIndexUMIAdapter5	CTTGTCGA
+DualIndexUMIAdapter6	TTCCAAGG
+DualIndexUMIAdapter7	CGCATGAT
+DualIndexUMIAdapter8	ACGGAACA
+DualIndexUMIAdapter9	CGGCTAAT
+DualIndexUMIAdapter10	ATCGATCG
+DualIndexUMIAdapter11	GCAAGATC
+DualIndexUMIAdapter12	GCTATCCT
+DualIndexUMIAdapter13	TACGCTAC
+DualIndexUMIAdapter14	TGGACTCT
+DualIndexUMIAdapter15	AGAGTAGC
+DualIndexUMIAdapter16	ATCCAGAG
+DualIndexUMIAdapter17	GACGATCT
+DualIndexUMIAdapter18	AACTGAGC
+DualIndexUMIAdapter19	CTTAGGAC
+DualIndexUMIAdapter20	GTGCCATA
+DualIndexUMIAdapter21	GAATCCGA
+DualIndexUMIAdapter22	TCGCTGTT
+DualIndexUMIAdapter23	TTCGTTGG
+DualIndexUMIAdapter24	AAGCACTG
+DualIndexUMIAdapter25	CCTTGATC
+DualIndexUMIAdapter26	GTCGAAGA
+DualIndexUMIAdapter27	ACCACGAT
+DualIndexUMIAdapter28	GATTACCG
+DualIndexUMIAdapter29	GCACAACT
+DualIndexUMIAdapter30	GCGTCATT
+DualIndexUMIAdapter31	ATCCGGTA
+DualIndexUMIAdapter32	CGTTGCAA
+DualIndexUMIAdapter33	GTGAAGTG
+DualIndexUMIAdapter34	CATGGCTA
+DualIndexUMIAdapter35	ATGCCTGT
+DualIndexUMIAdapter36	CAACACCT
+DualIndexUMIAdapter37	TGTGACTG
+DualIndexUMIAdapter38	GTCATCGA
+DualIndexUMIAdapter39	AGCACTTC
+DualIndexUMIAdapter40	GAAGGAAG
+DualIndexUMIAdapter41	GTTGTTCG
+DualIndexUMIAdapter42	CGGTTGTT
+DualIndexUMIAdapter43	ACTGAGGT
+DualIndexUMIAdapter44	TGAAGACG
+DualIndexUMIAdapter45	GTTACGCA
+DualIndexUMIAdapter46	AGCGTGTT
+DualIndexUMIAdapter47	GATCGAGT
+DualIndexUMIAdapter48	ACAGCTCA
+DualIndexUMIAdapter49	GAGCAGTA
+DualIndexUMIAdapter50	AGTTCGTC
+DualIndexUMIAdapter51	TTGCGAAG
+DualIndexUMIAdapter52	ATCGCCAT
+DualIndexUMIAdapter53	TGGCATGT
+DualIndexUMIAdapter54	CTGTTGAC
+DualIndexUMIAdapter55	CATACCAC
+DualIndexUMIAdapter56	GAAGTTGG
+DualIndexUMIAdapter57	ATGACGTC
+DualIndexUMIAdapter58	TTGGACGT
+DualIndexUMIAdapter59	AGTGGATC
+DualIndexUMIAdapter60	GATAGGCT
+DualIndexUMIAdapter61	TGGTAGCT
+DualIndexUMIAdapter62	CGCAATCT
+DualIndexUMIAdapter63	GATGTGTG
+DualIndexUMIAdapter64	GATTGCTC
+DualIndexUMIAdapter65	CGCTCTAT
+DualIndexUMIAdapter66	TATCGGTC
+DualIndexUMIAdapter67	AACGTCTG
+DualIndexUMIAdapter68	ACGTTCAG
+DualIndexUMIAdapter69	CAGTCCAA
+DualIndexUMIAdapter70	TTGCAGAC
+DualIndexUMIAdapter71	CAATGTGG
+DualIndexUMIAdapter72	ACTCCATC
+DualIndexUMIAdapter73	GTTGACCT
+DualIndexUMIAdapter74	CGTGTGTA
+DualIndexUMIAdapter75	ACGACTTG
+DualIndexUMIAdapter76	CACTAGCT
+DualIndexUMIAdapter77	ACTAGGAG
+DualIndexUMIAdapter78	GTAGGAGT
+DualIndexUMIAdapter79	CCTGATTG
+DualIndexUMIAdapter80	ATGCACGA
+DualIndexUMIAdapter81	CGACGTTA
+DualIndexUMIAdapter82	TACGCCTT
+DualIndexUMIAdapter83	CCGTAAGA
+DualIndexUMIAdapter84	ATCACACG
+DualIndexUMIAdapter85	CACCTGTT
+DualIndexUMIAdapter86	CTTCGACT
+DualIndexUMIAdapter87	TGCTTCCA
+DualIndexUMIAdapter88	AGAACGAG
+DualIndexUMIAdapter89	GTTCTCGT
+DualIndexUMIAdapter90	TCAGGCTT
+DualIndexUMIAdapter91	CCTTGTAG
+DualIndexUMIAdapter92	GAACATCG
+DualIndexUMIAdapter93	TAACCGGT
+DualIndexUMIAdapter94	AACCGTTC
+DualIndexUMIAdapter95	TGGTACAG
+DualIndexUMIAdapter96	ATATGCGC
+[I5]
+DualIndexUMIAdapter1	ATATGCGC
+DualIndexUMIAdapter2	TGGTACAG
+DualIndexUMIAdapter3	AACCGTTC
+DualIndexUMIAdapter4	TAACCGGT
+DualIndexUMIAdapter5	GAACATCG
+DualIndexUMIAdapter6	CCTTGTAG
+DualIndexUMIAdapter7	TCAGGCTT
+DualIndexUMIAdapter8	GTTCTCGT
+DualIndexUMIAdapter9	AGAACGAG
+DualIndexUMIAdapter10	TGCTTCCA
+DualIndexUMIAdapter11	CTTCGACT
+DualIndexUMIAdapter12	CACCTGTT
+DualIndexUMIAdapter13	ATCACACG
+DualIndexUMIAdapter14	CCGTAAGA
+DualIndexUMIAdapter15	TACGCCTT
+DualIndexUMIAdapter16	CGACGTTA
+DualIndexUMIAdapter17	ATGCACGA
+DualIndexUMIAdapter18	CCTGATTG
+DualIndexUMIAdapter19	GTAGGAGT
+DualIndexUMIAdapter20	ACTAGGAG
+DualIndexUMIAdapter21	CACTAGCT
+DualIndexUMIAdapter22	ACGACTTG
+DualIndexUMIAdapter23	CGTGTGTA
+DualIndexUMIAdapter24	GTTGACCT
+DualIndexUMIAdapter25	ACTCCATC
+DualIndexUMIAdapter26	CAATGTGG
+DualIndexUMIAdapter27	TTGCAGAC
+DualIndexUMIAdapter28	CAGTCCAA
+DualIndexUMIAdapter29	ACGTTCAG
+DualIndexUMIAdapter30	AACGTCTG
+DualIndexUMIAdapter31	TATCGGTC
+DualIndexUMIAdapter32	CGCTCTAT
+DualIndexUMIAdapter33	GATTGCTC
+DualIndexUMIAdapter34	GATGTGTG
+DualIndexUMIAdapter35	CGCAATCT
+DualIndexUMIAdapter36	TGGTAGCT
+DualIndexUMIAdapter37	GATAGGCT
+DualIndexUMIAdapter38	AGTGGATC
+DualIndexUMIAdapter39	TTGGACGT
+DualIndexUMIAdapter40	ATGACGTC
+DualIndexUMIAdapter41	GAAGTTGG
+DualIndexUMIAdapter42	CATACCAC
+DualIndexUMIAdapter43	CTGTTGAC
+DualIndexUMIAdapter44	TGGCATGT
+DualIndexUMIAdapter45	ATCGCCAT
+DualIndexUMIAdapter46	TTGCGAAG
+DualIndexUMIAdapter47	AGTTCGTC
+DualIndexUMIAdapter48	GAGCAGTA
+DualIndexUMIAdapter49	ACAGCTCA
+DualIndexUMIAdapter50	GATCGAGT
+DualIndexUMIAdapter51	AGCGTGTT
+DualIndexUMIAdapter52	GTTACGCA
+DualIndexUMIAdapter53	TGAAGACG
+DualIndexUMIAdapter54	ACTGAGGT
+DualIndexUMIAdapter55	CGGTTGTT
+DualIndexUMIAdapter56	GTTGTTCG
+DualIndexUMIAdapter57	GAAGGAAG
+DualIndexUMIAdapter58	AGCACTTC
+DualIndexUMIAdapter59	GTCATCGA
+DualIndexUMIAdapter60	TGTGACTG
+DualIndexUMIAdapter61	CAACACCT
+DualIndexUMIAdapter62	ATGCCTGT
+DualIndexUMIAdapter63	CATGGCTA
+DualIndexUMIAdapter64	GTGAAGTG
+DualIndexUMIAdapter65	CGTTGCAA
+DualIndexUMIAdapter66	ATCCGGTA
+DualIndexUMIAdapter67	GCGTCATT
+DualIndexUMIAdapter68	GCACAACT
+DualIndexUMIAdapter69	GATTACCG
+DualIndexUMIAdapter70	ACCACGAT
+DualIndexUMIAdapter71	GTCGAAGA
+DualIndexUMIAdapter72	CCTTGATC
+DualIndexUMIAdapter73	AAGCACTG
+DualIndexUMIAdapter74	TTCGTTGG
+DualIndexUMIAdapter75	TCGCTGTT
+DualIndexUMIAdapter76	GAATCCGA
+DualIndexUMIAdapter77	GTGCCATA
+DualIndexUMIAdapter78	CTTAGGAC
+DualIndexUMIAdapter79	AACTGAGC
+DualIndexUMIAdapter80	GACGATCT
+DualIndexUMIAdapter81	ATCCAGAG
+DualIndexUMIAdapter82	AGAGTAGC
+DualIndexUMIAdapter83	TGGACTCT
+DualIndexUMIAdapter84	TACGCTAC
+DualIndexUMIAdapter85	GCTATCCT
+DualIndexUMIAdapter86	GCAAGATC
+DualIndexUMIAdapter87	ATCGATCG
+DualIndexUMIAdapter88	CGGCTAAT
+DualIndexUMIAdapter89	ACGGAACA
+DualIndexUMIAdapter90	CGCATGAT
+DualIndexUMIAdapter91	TTCCAAGG
+DualIndexUMIAdapter92	CTTGTCGA
+DualIndexUMIAdapter93	GAGACGAT
+DualIndexUMIAdapter94	TGAGCTAG
+DualIndexUMIAdapter95	ACTCTCGA
+DualIndexUMIAdapter96	CTGATCGT
+[IndexPlateLayout]
+A01	DualIndexUMIAdapter1	DualIndexUMIAdapter1
+B01	DualIndexUMIAdapter2	DualIndexUMIAdapter2
+C01	DualIndexUMIAdapter3	DualIndexUMIAdapter3
+D01	DualIndexUMIAdapter4	DualIndexUMIAdapter4
+E01	DualIndexUMIAdapter5	DualIndexUMIAdapter5
+F01	DualIndexUMIAdapter6	DualIndexUMIAdapter6
+G01	DualIndexUMIAdapter7	DualIndexUMIAdapter7
+H01	DualIndexUMIAdapter8	DualIndexUMIAdapter8
+A02	DualIndexUMIAdapter9	DualIndexUMIAdapter9
+B02	DualIndexUMIAdapter10	DualIndexUMIAdapter10
+C02	DualIndexUMIAdapter11	DualIndexUMIAdapter11
+D02	DualIndexUMIAdapter12	DualIndexUMIAdapter12
+E02	DualIndexUMIAdapter13	DualIndexUMIAdapter13
+F02	DualIndexUMIAdapter14	DualIndexUMIAdapter14
+G02	DualIndexUMIAdapter15	DualIndexUMIAdapter15
+H02	DualIndexUMIAdapter16	DualIndexUMIAdapter16
+A03	DualIndexUMIAdapter17	DualIndexUMIAdapter17
+B03	DualIndexUMIAdapter18	DualIndexUMIAdapter18
+C03	DualIndexUMIAdapter19	DualIndexUMIAdapter19
+D03	DualIndexUMIAdapter20	DualIndexUMIAdapter20
+E03	DualIndexUMIAdapter21	DualIndexUMIAdapter21
+F03	DualIndexUMIAdapter22	DualIndexUMIAdapter22
+G03	DualIndexUMIAdapter23	DualIndexUMIAdapter23
+H03	DualIndexUMIAdapter24	DualIndexUMIAdapter24
+A04	DualIndexUMIAdapter25	DualIndexUMIAdapter25
+B04	DualIndexUMIAdapter26	DualIndexUMIAdapter26
+C04	DualIndexUMIAdapter27	DualIndexUMIAdapter27
+D04	DualIndexUMIAdapter28	DualIndexUMIAdapter28
+E04	DualIndexUMIAdapter29	DualIndexUMIAdapter29
+F04	DualIndexUMIAdapter30	DualIndexUMIAdapter30
+G04	DualIndexUMIAdapter31	DualIndexUMIAdapter31
+H04	DualIndexUMIAdapter32	DualIndexUMIAdapter32
+A05	DualIndexUMIAdapter33	DualIndexUMIAdapter33
+B05	DualIndexUMIAdapter34	DualIndexUMIAdapter34
+C05	DualIndexUMIAdapter35	DualIndexUMIAdapter35
+D05	DualIndexUMIAdapter36	DualIndexUMIAdapter36
+E05	DualIndexUMIAdapter37	DualIndexUMIAdapter37
+F05	DualIndexUMIAdapter38	DualIndexUMIAdapter38
+G05	DualIndexUMIAdapter39	DualIndexUMIAdapter39
+H05	DualIndexUMIAdapter40	DualIndexUMIAdapter40
+A06	DualIndexUMIAdapter41	DualIndexUMIAdapter41
+B06	DualIndexUMIAdapter42	DualIndexUMIAdapter42
+C06	DualIndexUMIAdapter43	DualIndexUMIAdapter43
+D06	DualIndexUMIAdapter44	DualIndexUMIAdapter44
+E06	DualIndexUMIAdapter45	DualIndexUMIAdapter45
+F06	DualIndexUMIAdapter46	DualIndexUMIAdapter46
+G06	DualIndexUMIAdapter47	DualIndexUMIAdapter47
+H06	DualIndexUMIAdapter48	DualIndexUMIAdapter48
+A07	DualIndexUMIAdapter49	DualIndexUMIAdapter49
+B07	DualIndexUMIAdapter50	DualIndexUMIAdapter50
+C07	DualIndexUMIAdapter51	DualIndexUMIAdapter51
+D07	DualIndexUMIAdapter52	DualIndexUMIAdapter52
+E07	DualIndexUMIAdapter53	DualIndexUMIAdapter53
+F07	DualIndexUMIAdapter54	DualIndexUMIAdapter54
+G07	DualIndexUMIAdapter55	DualIndexUMIAdapter55
+H07	DualIndexUMIAdapter56	DualIndexUMIAdapter56
+A08	DualIndexUMIAdapter57	DualIndexUMIAdapter57
+B08	DualIndexUMIAdapter58	DualIndexUMIAdapter58
+C08	DualIndexUMIAdapter59	DualIndexUMIAdapter59
+D08	DualIndexUMIAdapter60	DualIndexUMIAdapter60
+E08	DualIndexUMIAdapter61	DualIndexUMIAdapter61
+F08	DualIndexUMIAdapter62	DualIndexUMIAdapter62
+G08	DualIndexUMIAdapter63	DualIndexUMIAdapter63
+H08	DualIndexUMIAdapter64	DualIndexUMIAdapter64
+A09	DualIndexUMIAdapter65	DualIndexUMIAdapter65
+B09	DualIndexUMIAdapter66	DualIndexUMIAdapter66
+C09	DualIndexUMIAdapter67	DualIndexUMIAdapter67
+D09	DualIndexUMIAdapter68	DualIndexUMIAdapter68
+E09	DualIndexUMIAdapter69	DualIndexUMIAdapter69
+F09	DualIndexUMIAdapter70	DualIndexUMIAdapter70
+G09	DualIndexUMIAdapter71	DualIndexUMIAdapter71
+H09	DualIndexUMIAdapter72	DualIndexUMIAdapter72
+A10	DualIndexUMIAdapter73	DualIndexUMIAdapter73
+B10	DualIndexUMIAdapter74	DualIndexUMIAdapter74
+C10	DualIndexUMIAdapter75	DualIndexUMIAdapter75
+D10	DualIndexUMIAdapter76	DualIndexUMIAdapter76
+E10	DualIndexUMIAdapter77	DualIndexUMIAdapter77
+F10	DualIndexUMIAdapter78	DualIndexUMIAdapter78
+G10	DualIndexUMIAdapter79	DualIndexUMIAdapter79
+H10	DualIndexUMIAdapter80	DualIndexUMIAdapter80
+A11	DualIndexUMIAdapter81	DualIndexUMIAdapter81
+B11	DualIndexUMIAdapter82	DualIndexUMIAdapter82
+C11	DualIndexUMIAdapter83	DualIndexUMIAdapter83
+D11	DualIndexUMIAdapter84	DualIndexUMIAdapter84
+E11	DualIndexUMIAdapter85	DualIndexUMIAdapter85
+F11	DualIndexUMIAdapter86	DualIndexUMIAdapter86
+G11	DualIndexUMIAdapter87	DualIndexUMIAdapter87
+H11	DualIndexUMIAdapter88	DualIndexUMIAdapter88
+A12	DualIndexUMIAdapter89	DualIndexUMIAdapter89
+B12	DualIndexUMIAdapter90	DualIndexUMIAdapter90
+C12	DualIndexUMIAdapter91	DualIndexUMIAdapter91
+D12	DualIndexUMIAdapter92	DualIndexUMIAdapter92
+E12	DualIndexUMIAdapter93	DualIndexUMIAdapter93
+F12	DualIndexUMIAdapter94	DualIndexUMIAdapter94
+G12	DualIndexUMIAdapter95	DualIndexUMIAdapter95
+H12	DualIndexUMIAdapter96	DualIndexUMIAdapter96
+[DefaultLayout_SingleIndex]
+A01	A01
+B01	B01
+C01	C01
+D01	D01
+E01	E01
+F01	F01
+G01	G01
+H01	H01
+A02	A02
+B02	B02
+C02	C02
+D02	D02
+E02	E02
+F02	F02
+G02	G02
+H02	H02
+A03	A03
+B03	B03
+C03	C03
+D03	D03
+E03	E03
+F03	F03
+G03	G03
+H03	H03
+A04	A04
+B04	B04
+C04	C04
+D04	D04
+E04	E04
+F04	F04
+G04	G04
+H04	H04
+A05	A05
+B05	B05
+C05	C05
+D05	D05
+E05	E05
+F05	F05
+G05	G05
+H05	H05
+A06	A06
+B06	B06
+C06	C06
+D06	D06
+E06	E06
+F06	F06
+G06	G06
+H06	H06
+A07	A07
+B07	B07
+C07	C07
+D07	D07
+E07	E07
+F07	F07
+G07	G07
+H07	H07
+A08	A08
+B08	B08
+C08	C08
+D08	D08
+E08	E08
+F08	F08
+G08	G08
+H08	H08
+A09	A09
+B09	B09
+C09	C09
+D09	D09
+E09	E09
+F09	F09
+G09	G09
+H09	H09
+A10	A10
+B10	B10
+C10	C10
+D10	D10
+E10	E10
+F10	F10
+G10	G10
+H10	H10
+A11	A11
+B11	B11
+C11	C11
+D11	D11
+E11	E11
+F11	F11
+G11	G11
+H11	H11
+A12	A12
+B12	B12
+C12	C12
+D12	D12
+E12	E12
+F12	F12
+G12	G12
+H12	H12
+[DefaultLayout_DualIndex]
+A01	A01
+B01	B01
+C01	C01
+D01	D01
+E01	E01
+F01	F01
+G01	G01
+H01	H01
+A02	A02
+B02	B02
+C02	C02
+D02	D02
+E02	E02
+F02	F02
+G02	G02
+H02	H02
+A03	A03
+B03	B03
+C03	C03
+D03	D03
+E03	E03
+F03	F03
+G03	G03
+H03	H03
+A04	A04
+B04	B04
+C04	C04
+D04	D04
+E04	E04
+F04	F04
+G04	G04
+H04	H04
+A05	A05
+B05	B05
+C05	C05
+D05	D05
+E05	E05
+F05	F05
+G05	G05
+H05	H05
+A06	A06
+B06	B06
+C06	C06
+D06	D06
+E06	E06
+F06	F06
+G06	G06
+H06	H06
+A07	A07
+B07	B07
+C07	C07
+D07	D07
+E07	E07
+F07	F07
+G07	G07
+H07	H07
+A08	A08
+B08	B08
+C08	C08
+D08	D08
+E08	E08
+F08	F08
+G08	G08
+H08	H08
+A09	A09
+B09	B09
+C09	C09
+D09	D09
+E09	E09
+F09	F09
+G09	G09
+H09	H09
+A10	A10
+B10	B10
+C10	C10
+D10	D10
+E10	E10
+F10	F10
+G10	G10
+H10	H10
+A11	A11
+B11	B11
+C11	C11
+D11	D11
+E11	E11
+F11	F11
+G11	G11
+H11	H11
+A12	A12
+B12	B12
+C12	C12
+D12	D12
+E12	E12
+F12	F12
+G12	G12
+H12	H12
