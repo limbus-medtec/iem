@@ -7,6 +7,8 @@ Twist Enrichment UDI
 151
 151
 [Compatible Index Kits]
+Twist 16 UDI
+Twist 384 UDI
 Twist 96 UDI Plate A
 Twist 96 UDI Plate B
 Twist 96 UDI Plate C

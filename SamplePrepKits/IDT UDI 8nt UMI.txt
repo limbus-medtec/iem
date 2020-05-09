@@ -7,6 +7,7 @@ IDT UDI 8nt UMI
 151
 151
 [Compatible Index Kits]
+IDT UDI 8nt UMI 384 Indices
 IDT UDI 8nt UMI Set A
 IDT UDI 8nt UMI Set B
 IDT UDI 8nt UMI Set C

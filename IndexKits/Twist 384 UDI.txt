@@ -1,0 +1,15 @@
+﻿[Version]
+1
+[Name]
+Twist 384 UDI
+[PlateExtension]
+twistudi384
+[Settings]
+Adapter	AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+AdapterRead2	AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+[ChildIndexKits]
+Twist 96 UDI Plate A	A-1-96
+Twist 96 UDI Plate B	B-97-192
+Twist 96 UDI Plate C	C-193-288
+Twist 96 UDI Plate D	D-289-384
+[DefaultLayout_DualIndex]

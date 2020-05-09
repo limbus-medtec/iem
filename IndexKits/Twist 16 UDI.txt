@@ -1,0 +1,498 @@
+﻿[Version]
+1
+[Name]
+Twist 16 UDI
+[PlateExtension]
+twistudi16
+[Settings]
+Adapter	AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+AdapterRead2	AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+[I7]
+1	AGACGAAGTT
+2	TCACTACTAG
+3	ACTGAGGTAA
+4	CTTATCTAGC
+5	TACACCATTG
+6	GTAACGTCAA
+7	TAGGTTGGAA
+8	AAGTGCACCT
+9	TGCTCGACAG
+10	AGGTGTTCTA
+11	CCGAGAAGGT
+12	GAAGCAATAG
+13	GTTAATCGCT
+14	TGTAACTCCA
+15	CCAGTATCTA
+16	GTTCTCATAG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[I5]
+1	CGAGCACGTT
+2	TTCATAGGAC
+3	CAGGTTATAC
+4	TCTCATCATG
+5	TCAGTCGTTG
+6	CAACAACTCT
+7	TCTAGGAACA
+8	CGATATGCTA
+9	TTGGCTTGGT
+10	AAGAACGTAG
+11	AGCTCCACTG
+12	TGTGCGATTC
+13	CTCAATGCTC
+14	TTGTTGTCAG
+15	TATCCGCGGT
+16	CACAGCAAGA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[IndexPlateLayout]
+A01	1	1
+B01	2	2
+C01	3	3
+D01	4	4
+E01	5	5
+F01	6	6
+G01	7	7
+H01	8	8
+A02	9	9
+B02	10	10
+C02	11	11
+D02	12	12
+E02	13	13
+F02	14	14
+G02	15	15
+H02	16	16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[DefaultLayout_SingleIndex]
+A01	A01
+B01	B01
+C01	C01
+D01	D01
+E01	E01
+F01	F01
+G01	G01
+H01	H01
+A02	A02
+B02	B02
+C02	C02
+D02	D02
+E02	E02
+F02	F02
+G02	G02
+H02	H02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[DefaultLayout_DualIndex]
+A01	A01
+B01	B01
+C01	C01
+D01	D01
+E01	E01
+F01	F01
+G01	G01
+H01	H01
+A02	A02
+B02	B02
+C02	C02
+D02	D02
+E02	E02
+F02	F02
+G02	G02
+H02	H02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
