@@ -32,28 +32,14 @@ Copy the files from the directories in this repository into the respective direc
 
 > Note that you will probably need administrator rights on your computer in order to modify files in the program directory.
 
-## Integrated DNA Technologies
+## Available index adapters
 
-The following IDT adapters are contained in the configuration files.
+| Name                                                         | Manufacturer                                                 | Length/nt | Notes                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| [xGen® Dual Index UMI Adapters](www.idtdna.com/UMI-techaccess) | [Integrated DNA Technologies](https://eu.idtdna.com/pages/products/next-generation-sequencing/adapters) | 8         | The index sequences in this configuration do not contain `N` for UMI nucleotides, since [varvis®](https://www.varvis.com) takes care of separation of barcode sequences; grouped into four sets of 96 adapters. |
+| [16-UDI](https://www.twistbioscience.com/resources/twist-universal-adapter-system) | [Twist Bioscience](https://www.twistbioscience.com/)         | 10        |                                                              |
+| [96-UDI](https://www.twistbioscience.com/resources/twist-universal-adapter-system) | [Twist Bioscience](https://www.twistbioscience.com/)         | 10        | Grouped into four sets of 96 adapters                        |
 
-### xGen® Dual Index UMI Adapters (8nt)
 
-www.idtdna.com/UMI-techaccess
-
-384 unique dual index adapters are grouped into four sets of 96 adapters. 
-
-> Note that the index sequences in this configuration do not contain `N` for UMI nucleotides, since [varvis®](https://www.varvis.com) takes care of separation of barcode sequences.
-
-## Twist Bioscience Universal Adapter System
-
-The datasheet of the Twist unique dual index adapters is available here: https://www.twistbioscience.com/resources/twist-universal-adapter-system
-
-### 16-UDI
-
-16 unique dual index adapters.
-
-### 96-UDI
-
-384 unique dual index adapters are grouped into four sets of 96 adapters. 
 
 Illumina® is a registered trademark of Illumina, Inc. xGen® is a registered trademark of Integrated DNA Technologies, Inc. All other trademarks are property of their respective owners.
