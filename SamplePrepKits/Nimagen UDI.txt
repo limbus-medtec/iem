@@ -1,0 +1,11 @@
+﻿[Version]
+1
+[Name]
+Nimagen UDI
+[Settings]
+[Reads]
+151
+151
+[Compatible Index Kits]
+Nimagen IDX96-U01
+Nimagen IDX96-U02

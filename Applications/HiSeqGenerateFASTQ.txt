@@ -9,6 +9,7 @@ HiSeq
 [Compatible Sample Prep Kits]
 IDT UDI 8nt UMI
 Twist Enrichment UDI
+Nimagen UDI
 TruSeq DNA PCR-Free
 TruSeq Nano DNA
 TruSeq Synthetic Long-Read DNA
