@@ -3,7 +3,7 @@
 [Name]
 IDT UDI 8nt UMI Set B
 [PlateExtension]
-idtumi384a
+idtumi384b
 [Settings]
 Adapter	AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
 AdapterRead2	AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT

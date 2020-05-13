@@ -34,12 +34,13 @@ Copy the files from the directories in this repository into the respective direc
 
 ## Available index adapters
 
-| Name                                                         | Manufacturer                                                 | Length/nt | Notes                                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
-| [xGen® Dual Index UMI Adapters](www.idtdna.com/UMI-techaccess) | [Integrated DNA Technologies](https://eu.idtdna.com/pages/products/next-generation-sequencing/adapters) | 8         | The index sequences in this configuration do not contain `N` for UMI nucleotides, since [varvis®](https://www.varvis.com) takes care of separation of barcode sequences; grouped into four sets of 96 adapters. |
-| [16-UDI](https://www.twistbioscience.com/resources/twist-universal-adapter-system) | [Twist Bioscience](https://www.twistbioscience.com/)         | 10        |                                                              |
-| [96-UDI](https://www.twistbioscience.com/resources/twist-universal-adapter-system) | [Twist Bioscience](https://www.twistbioscience.com/)         | 10        | Grouped into four sets of 96 adapters                        |
+| Name                                                         | Manufacturer                                                 | Length/ nt | SamplePrepKit        | IndexKits                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | -------------------- | ------------------------------------------------------------ |
+| [xGen® Dual Index UMI Adapters](www.idtdna.com/UMI-techaccess) | [Integrated DNA Technologies](https://eu.idtdna.com/pages/products/next-generation-sequencing/adapters) | 8          | IDT UDI 8nt UMI      | IDT UDI 8nt UMI 384 Indices<br />IDT UDI 8nt UMI Set A<br />IDT UDI 8nt UMI Set B<br />IDT UDI 8nt UMI Set C<br />IDT UDI 8nt UMI Set D |
+| [IDX96](https://www.nimagen.com/shop/products/idx96-u01/index-primer-plate-and-nbsp-u01-96-unique-dual-indexes) | [Nimagen](https://www.nimagen.com/)                          | 10         | Nimagen UDI          | Nimagen IDX96-U01<br />Nimagen IDX96-U02                     |
+| [16-UDI](https://www.twistbioscience.com/resources/twist-universal-adapter-system) | [Twist Bioscience](https://www.twistbioscience.com/)         | 10         | Twist Enrichment UDI | Twist 16 UDI                                                 |
+| [96-UDI](https://www.twistbioscience.com/resources/twist-universal-adapter-system) | [Twist Bioscience](https://www.twistbioscience.com/)         | 10         | Twist Enrichment UDI | Twist 384 UDI<br />Twist 96 UDI Plate A<br />Twist 96 UDI Plate B<br />Twist 96 UDI Plate C<br />Twist 96 UDI Plate D |
 
-
+The IDT UMI index sequences do not contain `N` for UMI nucleotides, since [varvis®](https://www.varvis.com) takes care of separation of barcode sequences; grouped into four sets of 96 adapters.
 
 Illumina® is a registered trademark of Illumina, Inc. xGen® is a registered trademark of Integrated DNA Technologies, Inc. All other trademarks are property of their respective owners.
