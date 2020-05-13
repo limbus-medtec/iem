@@ -11,6 +11,10 @@ The configuration files are provided "as is" and the authors make no representat
 
 Links to other websites are provided as a convenience and do not indicate any endorsement or business relationship.
 
+## Download
+
+Please download the latest version from [releases](https://github.com/limbus-medtec/iem/releases/latest). We provide .zip files with Windows line endings.
+
 ## Installation
 
 IEM is typically installed into a directory such as this:
