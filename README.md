@@ -52,5 +52,4 @@ Then, restart IEM.
 | [16-UDI](https://www.twistbioscience.com/resources/twist-universal-adapter-system) | [Twist Bioscience](https://www.twistbioscience.com/)         | 10         | `Twist Enrichment UDI` | `Twist 16 UDI`                                               |
 | [96-UDI](https://www.twistbioscience.com/resources/twist-universal-adapter-system) | [Twist Bioscience](https://www.twistbioscience.com/)         | 10         | `Twist Enrichment UDI` | `Twist 384 UDI`<br />`Twist 96 UDI Plate A`<br />`Twist 96 UDI Plate B`<br />`Twist 96 UDI Plate C`<br />`Twist 96 UDI Plate D` |
 
-Illumina® is a registered trademark of Illumina, Inc. xGen® is a registered trademark of 
-Integrated DNA Technologies, Inc. All other trademarks are property of their respective owners.
+Illumina® is a registered trademark of Illumina, Inc. All other trademarks are property of their respective owners.
