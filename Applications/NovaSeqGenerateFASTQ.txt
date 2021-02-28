@@ -7,7 +7,6 @@ NovaSeq FASTQ Only
 [Category]
 NovaSeq
 [Compatible Sample Prep Kits]
-IDT UDI 8nt UMI
 Twist Enrichment UDI
 Nimagen UDI
 TruSeq DNA PCR-Free
@@ -15,7 +14,7 @@ TruSeq Nano DNA
 TruSeq Synthetic Long-Read DNA
 TruSeq Bovine
 Nextera DNA
-Nextera DNA Flex
+Illumina DNA Prep
 Nextera Mate Pair
 Nextera Rapid Capture Custom Enrichment
 TruSeq DNA Exome Enrichment
@@ -44,7 +43,13 @@ SureCell WTA 3'
 TruSeq RNA Exome Enrichment
 Nextera DNA Exome Enrichment
 AmpliSeq Library PLUS for Illumina
-Nextera Flex for Enrichment
+Illumina DNA Prep with Enrichment
+Illumina DNA PCR-Free 2x149
+Illumina DNA PCR-Free 2x151
+Illumina RNA Prep with Enrichment
+Illumina Stranded mRNA
+Illumina Stranded Total RNA
 [Workflow-Specific Parameters]
 Label	Type	LabelInSampleSheet	TrueVal	FalseVal	DefaultVal	Required	DisplayAsCol	SuppressInSampleSheet	PreventClearing
+Consumable Version	RADIOBUTTONS[Version 1, Version 1.5]	ConsumableVersion	-	-	-	TRUE	-	TRUE	TRUE
 NovaSeq Xp workflow	BOOL	NovaSeqXp	1	0	FALSE	FALSE	FALSE	TRUE	TRUE
