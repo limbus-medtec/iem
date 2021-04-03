@@ -9,6 +9,7 @@ Nimagen UDI
 [Compatible Index Kits]
 Nimagen IDX96-U01
 Nimagen IDX96-U02
+Nimagen IDX96-U02v2
 Nimagen IDX96-U03
 Nimagen IDX96-U05
 Nimagen IDX96-U06
