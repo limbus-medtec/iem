@@ -20,7 +20,7 @@ Links to other websites are provided as a convenience and do not indicate any en
 ## Download
 
 Please download the latest version from [releases](https://github.com/limbus-medtec/iem/releases/latest). 
-We provide .zip files with Windows line endings.
+ZIP archives containing all configuration files are provided there.
 
 ## Installation
 
@@ -48,8 +48,19 @@ Then, restart IEM.
 
 | Name                                                         | Manufacturer                                                 | Length/ nt | SamplePrepKit          | IndexKits                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------- | ------------------------------------------------------------ |
-| [IDX96](https://www.nimagen.com/shop/products/idx96-u01/index-primer-plate-and-nbsp-u01-96-unique-dual-indexes) | [Nimagen](https://www.nimagen.com/)                          | 10         | `Nimagen UDI`          | `Nimagen IDX96-U01`<br />`Nimagen IDX96-U02`                 |
+| [IDX96](https://www.nimagen.com/shop/products/idx96-u01/index-primer-plate-and-nbsp-u01-96-unique-dual-indexes) | [Nimagen](https://www.nimagen.com/)    | 10         | `Nimagen UDI`          | `Nimagen IDX96-U01`<br />`Nimagen IDX96-U02v2`<br />`Nimagen IDX96-U03`<br />`Nimagen IDX96-U05`<br />`Nimagen IDX96-U06`  |
+| [IDX96](https://www.nimagen.com/shop/products/idx96-u01/index-primer-plate-and-nbsp-u01-96-unique-dual-indexes) | [Nimagen](https://www.nimagen.com/)   | 8*         | `Nimagen UDI`          | `Nimagen IDX96-U01-8nt`<br />`Nimagen IDX96-U02v2-8nt`<br />`Nimagen IDX96-U03-8nt`<br />`Nimagen IDX96-U05-8nt`<br />`Nimagen IDX96-U06-8nt`   |
+| [IDX96](https://www.nimagen.com/shop/products/idx96-u01/index-primer-plate-and-nbsp-u01-96-unique-dual-indexes) | [Nimagen](https://www.nimagen.com/)    | 8*         | `Nimagen UDI`          | `Nimagen IDX96-U01-RC-8nt`<br />`Nimagen IDX96-U02v2-RC-8nt`<br />`Nimagen IDX96-U03-RC-8nt`<br />`Nimagen IDX96-U05-RC-8nt`<br />`Nimagen IDX96-U06-RC-8nt` |
 | [16-UDI](https://www.twistbioscience.com/resources/twist-universal-adapter-system) | [Twist Bioscience](https://www.twistbioscience.com/)         | 10         | `Twist Enrichment UDI` | `Twist 16 UDI`                                               |
 | [96-UDI](https://www.twistbioscience.com/resources/twist-universal-adapter-system) | [Twist Bioscience](https://www.twistbioscience.com/)         | 10         | `Twist Enrichment UDI` | `Twist 384 UDI`<br />`Twist 96 UDI Plate A`<br />`Twist 96 UDI Plate B`<br />`Twist 96 UDI Plate C`<br />`Twist 96 UDI Plate D` |
+
+*Some Nimagen amplicon designs require to use at least 151 cycles for Read 1 and Read 2. This is not compatible with 10nt 
+indices on most devices. Nimagen states, however, that their 10nt index plates can be used as 8nt indices. 
+For convenience, we created configurations with 8nt from those index plates. Please note that you must
+select different configurations depending on your device, for example:
+* `Nimagen IDX96-U01-8nt` for the Forward Strand Workflow implemented in MiSeq and NovaSeq (v1.0 reagents),
+* `Nimagen IDX96-U01-RC-8nt` for the Reverse Complement Workflow implemented in NextSeq and NovaSeq (v1.5 reagents).
+
+See also the Indexed Sequencing Overview Guide Document #15057455 (v08 Nov 2020).
 
 Illumina® is a registered trademark of Illumina, Inc. All other trademarks are property of their respective owners.
