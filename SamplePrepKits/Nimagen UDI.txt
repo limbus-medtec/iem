@@ -8,17 +8,20 @@ Nimagen UDI
 151
 [Compatible Index Kits]
 Nimagen IDX96-U01
+Nimagen IDX96-U01v3
 Nimagen IDX96-U02
 Nimagen IDX96-U02v2
 Nimagen IDX96-U03
 Nimagen IDX96-U05
 Nimagen IDX96-U06
 Nimagen IDX96-U01-8nt
+Nimagen IDX96-U01v3-8nt
 Nimagen IDX96-U02v2-8nt
 Nimagen IDX96-U03-8nt
 Nimagen IDX96-U05-8nt
 Nimagen IDX96-U06-8nt
 Nimagen IDX96-U01-RC-8nt
+Nimagen IDX96-U01v3-RC-8nt
 Nimagen IDX96-U02v2-RC-8nt
 Nimagen IDX96-U03-RC-8nt
 Nimagen IDX96-U05-RC-8nt
