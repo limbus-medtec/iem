@@ -7,6 +7,7 @@ NovaSeq FASTQ Only
 [Category]
 NovaSeq
 [Compatible Sample Prep Kits]
+IDT UDI 8nt UMI
 Twist Enrichment UDI
 Nimagen UDI
 TruSeq DNA PCR-Free
