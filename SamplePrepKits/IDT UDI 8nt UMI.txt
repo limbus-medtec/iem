@@ -1,0 +1,14 @@
+[Version]
+1
+[Name]
+IDT UDI 8nt UMI
+[Settings]
+[Reads]
+151
+151
+[Compatible Index Kits]
+IDT UDI 8nt UMI 384 Indices
+IDT UDI 8nt UMI Set A
+IDT UDI 8nt UMI Set B
+IDT UDI 8nt UMI Set C
+IDT UDI 8nt UMI Set D
